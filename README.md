@@ -11,7 +11,7 @@ Installation :
 
 - ```pip install -r requirements.txt``` in the desired folder.
 
-- Run the **app.py** file and go to the local url displayed in the terminal.
+- Run the **app.py** file in the **Flask_app** folder and go to the local url displayed in the terminal.
 
 - Select your criteria and click on the predict rent button.
 
